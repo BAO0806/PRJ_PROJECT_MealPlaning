@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/controllers/GetOrderDetailServlet.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/controllers/ManageOrderServlet.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/Customers.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/controllers/MenuServlet.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/Orders.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/controllers/ManageDishesServlet.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/Staff.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dao/DAOInterface.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/MealPlans.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/Menu.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/ProfileUser.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/OrderDetails.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/MenuDishes.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dao/OrdersDAO.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/web/WEB-INF/listDishes.jsp</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/User.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/web/index.html</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/mylib/DButil.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/controllers/DishServlet.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dao/DishDAO.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dto/Dishes.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dao/MenuDAO.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/src/java/dao/OrderDetailsDAO.java</file>
+            <file>file:/C:/Users/phamg/OneDrive/Tài%20liệu/PRJ_PROJECT_MealPlaning-order_8-7/PRJ_PROJECT_MENU/PROJECT_PRJ_MENU_16_7/web/WEB-INF/dishView.jsp</file>
+        </group>
+    </open-files>
+</project-private>
